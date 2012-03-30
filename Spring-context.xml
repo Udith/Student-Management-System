@@ -11,7 +11,6 @@
 
 	<bean id="student1" class="studentmanagement.Student" p:index="104567" p:firstName="John" p:lastName="Nash" p:address="Princetown,New Jersey" p:level="3" p:gpa="3.98" />
         <bean id="student2" class="studentmanagement.Student" p:index="108542" p:firstName="Dan" p:lastName="Carter" p:address="Wellington,New Zealnad" p:level="1" p:gpa="2.7" />
-        <bean id="student3" class="studentmanagement.Student" p:index="520114" p:firstName="Thomas" p:lastName="Beckett" p:address="California,West Coast" p:level="4" p:gpa="3.4" />
-	<!--<bean id="objectC" class="org.csedemo.spring.ClassC" />-->
+        <bean id="student3" class="studentmanagement.Student" p:index="520114" p:firstName="Thomas" p:lastName="Beckett" p:address="California,West Coast" p:level="4" p:gpa="3.4" />	
 
 </beans>
